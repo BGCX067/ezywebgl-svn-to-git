@@ -1,0 +1,13 @@
+#labels FR
+#Page de test
+
+= Introduction =
+
+Page de test
+
+= Details =
+
+*gras*
+_italic_
+
+Message de test
